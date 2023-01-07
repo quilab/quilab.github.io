@@ -17,7 +17,8 @@
 
 ### Quantum Logic & Computational models
 <a name="anchor_qlogic"></a>
-
+#### 2020
+1. S. Guerrini, S. Martini, A. Masini: Quantum Turing Machines: Computations and Measurements, Appl. Sci. 2020, 10(16), 5551; https://doi.org/10.3390/app10165551
 ### Quantum Machine Learning & Applications
 <a name="anchor_qml"></a>
 
@@ -48,7 +49,10 @@
 
 ## Members   
 
-#### Internal members
+#### Internal members 
+
+Alessandra
+
 
 
 #### External members
