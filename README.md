@@ -51,19 +51,34 @@
 
 #### Internal members 
 
-Alessandra
+Alessandra Di Pierro
+Massimiliano Incudini
+Nicola Assolini
+Francesco Martini
 
 
 
 #### External members
 
+Michele Grossi
+Antonio Mandarino
+David Windridge
+Minh Ha Quang
+Davide Pastorello
+Luca Dellantonio
+Guglielmo Mazzola
+Giuseppe Serra
 
 #### Former members
 
+Riccardo Mengoni
 
 ## Announcements
 
-No announcements yet!
+#### Quilab Workshop - 7th June 2023 
+Department of Computer Science 
+Strada le Grazie 15
+37134 Verona
 
 ## Contact  
 
