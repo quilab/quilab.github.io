@@ -51,23 +51,23 @@
 
 #### Internal members 
 
-Alessandra Di Pierro
-Massimiliano Incudini
-Nicola Assolini
-Francesco Martini
+- Alessandra Di Pierro (alessandra.dipierro@univr.it)
+- Massimiliano Incudini
+- Nicola Assolini
+- Francesco Martini
 
 
 
 #### External members
 
-Michele Grossi
-Antonio Mandarino
-David Windridge
-Minh Ha Quang
-Davide Pastorello
-Luca Dellantonio
-Guglielmo Mazzola
-Giuseppe Serra
+- Michele Grossi
+- Antonio Mandarino
+- David Windridge
+- Minh Ha Quang
+- Davide Pastorello
+- Luca Dellantonio
+- Guglielmo Mazzola
+- Giuseppe Serra
 
 #### Former members
 
