@@ -72,6 +72,8 @@
 #### Former members
 
 Riccardo Mengoni
+Andrea Masini
+Margherita Zorzi
 
 ## Announcements
 
@@ -81,6 +83,10 @@ Strada le Grazie 15
 37134 Verona
 
 ## Contact  
+
+#### Email
+
+quilab@univr.it
 
 #### How to reach us
 
