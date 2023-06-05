@@ -1,10 +1,13 @@
-
 # QUILAB Quantum Informatics Laboratory @ University of Verona
-  
-  
-## About
 
+## About us
 
+QUILAB is the quantum computing laboratory at the University of Verona, dedicated to pushing the boundaries of quantum computing software from both theoretical and applicative perspectives. Our team of researchers and engineers focuses on advancing quantum machine learning, quantum languages, and quantum software development.
+
+1. [Publications](#publications)
+2. [Members](#members)
+3. [Announcements](#announcements)
+4. [Contact](#contact)
 
 ## Publications  
   
@@ -17,13 +20,19 @@
 
 ### Quantum Logic & Computational models
 <a name="anchor_qlogic"></a>
+
 #### 2020
-1. S. Guerrini, S. Martini, A. Masini: Quantum Turing Machines: Computations and Measurements, Appl. Sci. 2020, 10(16), 5551; https://doi.org/10.3390/app10165551
+1. 
+
 ### Quantum Machine Learning & Applications
 <a name="anchor_qml"></a>
 
+#### 2023
+1. Di Marcantonio, F., Incudini, M., Tezza, D., & Grossi, M. (2023). Quantum Advantage Seeker with Kernels (QuASK): a software framework to speed up the research in quantum machine learning. Quantum Machine Intelligence, 5(20).
+2. Incudini, M., Grossi, M., Ceschini, A., Mandarino, A., Panella, M., Vallecorsa, S., & Windridge, D. (2023). Resource saving via ensemble techniques for quantum neural networks. arXiv preprint arXiv:2303.11283.
+
 #### 2022
-1. Di Marcantonio, F., Incudini, M., Tezza, D., & Grossi, M. (2022). QuASK--Quantum Advantage Seeker with Kernels. arXiv preprint arXiv:2206.15284.
+1. Incudini, M., Grossi, M., Mandarino, A., Vallecorsa, S., Di Pierro, A., & Windridge, D. (2022). The Quantum Path Kernel: a Generalized Quantum Neural Tangent Kernel for Deep Quantum Machine Learning. arXiv preprint arXiv:2212.11826.
 2. Incudini, M., Martini, F., & Di Pierro, A. (2022). Structure Learning of Quantum Embeddings. arXiv preprint arXiv:2209.11144.
 3. Incudini, M., Tarocco, F., Mengoni, R., Di Pierro, A., & Mandarino, A. (2022). Computing graph edit distance on quantum devices. Quantum Machine Intelligence, 4(2), 1-21.
 
@@ -33,9 +42,13 @@
  
 #### 2020
 1. Mengoni, R., Di Pierro, A., Memarzadeh, L., & Mancini, S. (2020). Persistent homology analysis of multiqubit entanglement. Quantum Information and Computation, 20(5&6), 375-399.
+2. S. Guerrini, S. Martini, A. Masini: Quantum Turing Machines: Computations and Measurements, Appl. Sci. 2020, 10(16), 5551; https://doi.org/10.3390/app10165551
 
 #### 2019
 1. Mengoni, R., & Di Pierro, A. (2019). Kernel methods in quantum machine learning. Quantum Machine Intelligence, 1(3), 65-71.
+2. Masini, Andrea, and Margherita Zorzi. "A logic for quantum register measurements." Axioms 8.1 (2019): 25.
+3. Zorzi, Margherita. "Quantum Calculi—From Theory to Language Design." Applied Sciences 9.24 (2019): 5472.
+4. Paolini, Luca, Mauro Piccolo, and Margherita Zorzi. "QPCF: higher-order languages and quantum circuits." Journal of Automated Reasoning 63 (2019): 941-966.
 
 #### 2018
 1. Windridge, D., Mengoni, R., & Nagarajan, R. (2018). Quantum error-correcting output codes. International Journal of Quantum Information, 16(08), 1840003.
@@ -45,8 +58,6 @@
 #### 2017
 1. Pierro, A. D., Mengoni, R., Nagarajan, R., & Windridge, D. (2017, December). Hamming Distance Kernelisation via Topological Quantum Computation. In International Conference on Theory and Practice of Natural Computing (pp. 269-280). Springer, Cham.
 
-
-
 ## Members   
 
 #### Internal members 
@@ -55,8 +66,8 @@
 - Massimiliano Incudini
 - Nicola Assolini
 - Francesco Martini
-
-
+- Andrea Masini
+- Margherita Zorzi
 
 #### External members
 
@@ -71,7 +82,7 @@
 
 #### Former members
 
-Riccardo Mengoni
+- Riccardo Mengoni
 
 ## Announcements
 
@@ -93,13 +104,6 @@ QUILAB is hosted at the University of Verona, Department of Computer Science:
 
 ![](map.png)
 
-
 #### About this website
 
 This website is hosted on Github Pages.
-
-The graphics has been taken from FlatIcon website:
-* <a href="https://www.flaticon.com/free-icons/lambda" title="lambda icons">Lambda icons created by Freepik - Flaticon</a>
-* <a href="https://www.flaticon.com/free-icons/critical-thinking" title="critical thinking icons">Critical thinking icons created by Parzival’ 1997 - Flaticon</a>
-* <a href="https://www.flaticon.com/free-icons/algorithm" title="algorithm icons">Algorithm icons created by Becris - Flaticon</a>
-* <a href="https://www.flaticon.com/free-icons/factory" title="factory icons">Factory icons created by Smashicons - Flaticon</a>
