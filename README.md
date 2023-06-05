@@ -2,7 +2,7 @@
 
 ## About us
 
-QUILAB is the quantum computing laboratory at the University of Verona, dedicated to pushing the boundaries of quantum computing software from both theoretical and applicative perspectives. Our team of researchers and engineers focuses on advancing quantum machine learning, quantum languages, and quantum software development.
+QUILAB is the quantum computing laboratory at the University of Verona, dedicated to pushing the boundaries of quantum computing software from both theoretical and applicative perspectives. Our research focuses on several topics including quantum machine learning, quantum languages, and quantum software development.
 
 1. [Publications](#publications)
 2. [Members](#members)
@@ -30,9 +30,9 @@ QUILAB is the quantum computing laboratory at the University of Verona, dedicate
 
 ### 2019
 1. Mengoni, R., & Di Pierro, A. (2019). Kernel methods in quantum machine learning. Quantum Machine Intelligence, 1(3), 65-71.
-2. Masini, Andrea, and Margherita Zorzi. "A logic for quantum register measurements." Axioms 8.1 (2019): 25.
-3. Zorzi, Margherita. "Quantum Calculi—From Theory to Language Design." Applied Sciences 9.24 (2019): 5472.
-4. Paolini, Luca, Mauro Piccolo, and Margherita Zorzi. "QPCF: higher-order languages and quantum circuits." Journal of Automated Reasoning 63 (2019): 941-966.
+2. Masini, A., & Zorzi, M. (2019). A logic for quantum register measurements. Axioms 8.1.
+3. Zorzi, M. (2019). Quantum Calculi—From Theory to Language Design. Applied Sciences 9.24.
+4. Paolini, L., Piccolo M., & Zorzi M. (2019). QPCF: higher-order languages and quantum circuits. Journal of Automated Reasoning 63.
 
 ### 2018
 1. Windridge, D., Mengoni, R., & Nagarajan, R. (2018). Quantum error-correcting output codes. International Journal of Quantum Information, 16(08), 1840003.
