@@ -3,7 +3,9 @@
   
   
 ## About
-
+QUILAB is the quantum computing laboratory at the University of Verona, 
+dedicated to pushing the boundaries of quantum computing from both theoretical and applicative perspectives. Our research focuses on several topics including quantum 
+machine learning, foundations of quantum languages, and quantum software development.
 
 
 ## Publications  
