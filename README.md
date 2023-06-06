@@ -68,8 +68,6 @@ quantum languages, and quantum software development.
 - David Windridge
 - Minh Ha Quang
 - Davide Pastorello
-- Luca Dellantonio
-- Guglielmo Mazzola
 - Giuseppe Serra
 
 ### Former members
