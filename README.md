@@ -12,13 +12,18 @@ quantum languages, and quantum software development.
 3. [Announcements](#announcements)
 4. [Contact](#contact)
 
-| ![](icons/lambda.png)                          | ![](icons/sw-develop.png)                                | ![](icons/ml.png) |  
-|------------------------------------------------|------------------------------------------------| --- | 
-| [Quantum Languages & Semantics](#anchor_qlang) | [Quantum Software Development](#anchor_qlogic) | [Quantum Machine Learning & Applications](#anchor_qml) | 
+| ![](icons/lambda.png)                          | ![](icons/sw-develop.png)                      | ![](icons/ml.png) |  |
+|------------------------------------------------|------------------------------------------------| --- | --- |
+| [Quantum Languages & Semantics](#anchor_qlang) | [Quantum Software Development](#anchor_qlogic) | [Quantum Machine Learning & Applications](#anchor_qml) | [Quantum optimization & Applications]() |
 
 
 ## Publications  
   
+### 2024
+1. Hoffmann M., ..., Di Pierro, A., Baumbach, J., List, M., Blumenthal, DB. Network medicine-based epistasis detection in complex diseases: ready for quantum computing (2023). Available at [https://www.medrxiv.org/content/10.1101/2023.11.07.23298205v1](https://www.medrxiv.org/content/10.1101/2023.11.07.23298205v1)
+2. Incudini M., Lizzio Bosco, D., Martini, M., Grossi, M., Serra, G., Di Pierro, A. Automatic and effective discovery of quantum kernels (2023)
+Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144)
+
 ### 2023
 1. Di Marcantonio, F., Incudini, M., Tezza, D., & Grossi, M. (2023). Quantum Advantage Seeker with Kernels (QuASK): a software framework to speed up the research in quantum machine learning. Quantum Machine Intelligence, 5(20).
 2. Incudini, M., Grossi, M., Ceschini, A., Mandarino, A., Panella, M., Vallecorsa, S., & Windridge, D. (2023). Resource saving via ensemble techniques for quantum neural networks. arXiv preprint arXiv:2303.11283.
