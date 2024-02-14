@@ -12,12 +12,9 @@ quantum languages, and quantum software development.
 3. [Announcements](#announcements)
 4. [Contact](#contact)
 
-| ![](icons/lambda.png)                          | ![](icons/sw-develop.png)                      | ![](icons/ml.png) |  |
-|------------------------------------------------|------------------------------------------------| --- | --- |
+| ![](icons/lambda.png)                          | ![](icons/sw-dev.png)                      | ![](icons/ml.png) |  |
+|------------------------------------------------|--------------------------------------------| --- | --- |
 | [Quantum Languages & Semantics](#anchor_qlang) | [Quantum Software Development](#anchor_qlogic) | [Quantum Machine Learning & Applications](#anchor_qml) | [Quantum optimization & Applications]() |
-| ![](icons/lambda.png)                          | ![](icons/sw-dev.png)                                | ![](icons/ml.png) |  
-|------------------------------------------------|------------------------------------------------| --- | 
-| [Quantum Languages & Semantics](#anchor_qlang) | [Quantum Software Development](#anchor_qlogic) | [Quantum Machine Learning & Applications](#anchor_qml) | 
 
 
 ## Publications  
