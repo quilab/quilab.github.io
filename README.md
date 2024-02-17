@@ -63,6 +63,7 @@ Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144
 - Massimiliano Incudini
 - Nicola Assolini
 - Francesco Martini
+- Giacomo Campagnari
 - Andrea Masini
 - Margherita Zorzi
 
