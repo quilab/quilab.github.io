@@ -23,6 +23,7 @@ quantum languages, and quantum software development.
 1. Hoffmann M., ..., Di Pierro, A., Baumbach, J., List, M., Blumenthal, DB. Network medicine-based epistasis detection in complex diseases: ready for quantum computing (2023). Available at [https://www.medrxiv.org/content/10.1101/2023.11.07.23298205v1](https://www.medrxiv.org/content/10.1101/2023.11.07.23298205v1)
 2. Incudini M., Lizzio Bosco, D., Martini, M., Grossi, M., Serra, G., Di Pierro, A. Automatic and effective discovery of quantum kernels (2023)
 Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144)
+3. Incudini M., Martini F., Di Pierro A. Toward useful quantum kernels. Advanced Quantum Technologies, doi: https://doi.org/10.1002/qute.202300298.
 
 ### 2023
 1. Di Marcantonio, F., Incudini, M., Tezza, D., & Grossi, M. (2023). Quantum Advantage Seeker with Kernels (QuASK): a software framework to speed up the research in quantum machine learning. Quantum Machine Intelligence, 5(20).
