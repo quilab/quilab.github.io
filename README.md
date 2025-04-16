@@ -1,3 +1,6 @@
+This page is not in use. Please go to the [new page](https://quilabverona.github.io)
+
+<!--
 # QUILAB Quantum Informatics Laboratory @ University of Verona
 
 ## About us
@@ -104,3 +107,4 @@ QUILAB is hosted at the University of Verona, Department of Computer Science:
 ### About this website
 
 This website is hosted on Github Pages.
+-->
