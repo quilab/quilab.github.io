@@ -64,7 +64,7 @@ Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144
 ### Internal members 
 
 - Alessandra Di Pierro (alessandra.dipierro@univr.it)
-- Massimiliano Incudini
+- Claudia Daffara
 - Nicola Assolini
 - Francesco Martini
 - Giacomo Campagnari
@@ -83,6 +83,7 @@ Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144
 ### Former members
 
 - Riccardo Mengoni
+- Massimiliano Incudini
 
 ## Announcements
 
